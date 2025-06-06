@@ -3,7 +3,7 @@ import random
 
 # Restaurant Categories
 restaurants = {
-    "Mexican": ["Soccer Taco", "Don Gallo", "Salsaritas", "Las Fuentes", "Taco Bell", "Chivo", "El Mez", "Cancun", "Amigos", "Chuys", "Moes", "Babalu"],
+    "Mexican": ["Soccer Taco", "Don Gallo", "Salsaritas", "Las Fuentes", "Taco Bell", "Chivo", "El Mez", "Cancun", "Amigos", "Chuys", "Moes", "Babalu", "Zalate"],
     "Italian": ["Blaze Pizza", "Olive Garden", "Carabbas", "Altrudas", "A dopo"],
     "American": ["Cookout", "Wingstop", "Chilis", "Stock & Barrel", "Southern Grit", "Double Dogs", "Chick-Fil-A", "Jimmy Johns", "Jersey Mikes", "Firebirds", "Connors", "Waffle House", "Zaxbys", "Longhorn", "McDonalds", "Hot Birds", "McAlisters", "Drakes", "Checkers"],
     "Asian": ["Kabuki", "Panda Express", "Wasabi", "PF Changs", "Fin-Two", "Wok Chow", "Nama", "Chaiyo", "Hungry Sumo", "Q Korean Steakhouse", "KOKO"],
